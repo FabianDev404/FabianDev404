@@ -10,14 +10,13 @@
 🛠️ Currently crafting dashboards & exploring AI tools
 ⚡️ Fun fact: Huge anime fan — always up for a good recommendation 🍜✨
 
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Contact with me 📝
 
-[<img align="left" alt="website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianespinozaviquez-412772198/)
+
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=web&logoColor=white)](https://www.linkedin.com/in/fabianespinozaviquez-412772198/)
+
 
 <br />
 
