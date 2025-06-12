@@ -15,9 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianespinozaviquez-412772198/)
 
-[![Website](https://portfolio-green-three-39.vercel.app/)
-
-
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=web&logoColor=white)](https://portfolio-green-three-39.vercel.app/)
 <br />
 
 ---
